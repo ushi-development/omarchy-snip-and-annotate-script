@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Screen Snip
+Comment=Select and annotate a screenshot, then save and copy
+Exec=/home/arch8300/.local/bin/screen-snip
+Icon=camera-photo
+Terminal=false
+Categories=Graphics;
+Keywords=screenshot;snip;capture;grim;highlight;annotate;satty;
+StartupNotify=false
